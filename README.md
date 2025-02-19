@@ -1,6 +1,7 @@
 # 🎮 Juego en 2D - Aprendizaje Interactivo
 
-![Juego en 2D]("C:\Users\joses\Documents\Trabajos\PPV\Lecciones\Unity.png")
+![Juego en 2D](![Juego en 2D](./images/juego_banner.png)
+)
 
 Bienvenido a este proyecto de desarrollo de juegos en 2D con Unity. Aquí encontrarás una serie de lecciones diseñadas para aprender desde lo básico hasta conceptos avanzados en el desarrollo de videojuegos.
 
